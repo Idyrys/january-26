@@ -3,4 +3,7 @@ public class Dog implements Interface{
     public void sleep() {
         System.out.println("dog is sleeping");
     }
+    public void eat(){
+        System.out.println( "dog is eating");
+    }
 }
