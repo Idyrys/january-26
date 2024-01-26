@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Animal animal = new Animal();
-        animal.sleep();
-        //№1
+       Cat cat = new Cat();
+       cat.sleep();
+        //№2
     }
 }
